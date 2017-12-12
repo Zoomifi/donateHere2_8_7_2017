@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/rotate_merchant_to_customer.png",
+        "source": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/rotate_merchant_to_customer.png"
+    },
+    {
+        "merged": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/rotate_customer_to_merchant.png",
+        "source": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/rotate_customer_to_merchant.png"
+    },
+    {
+        "merged": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/return_to_merchant.png",
+        "source": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/return_to_merchant.png"
+    }
+]

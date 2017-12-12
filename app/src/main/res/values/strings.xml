@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">Donate Here</string>
+    <string name="blank">blank</string>
+    <string name="Date">Date</string>
+    <string name="Amount">Amount</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="Email">Email</string>
+    <string name="PhoneNumber">Phone #</string>
+
+    <string name="ORGANIZATION_OR_COMPANY_NAME">zoomifi_donate_here_ORGANIZATION_OR_COMPANY_NAME</string>
+    <string name="donation_here_file">zoomifi_donate_here_donation_here_file</string>
+
+    <string name="donation_button1_price">zoomifi_donate_here_donation_button1_price</string>
+    <string name="donation_button2_price">zoomifi_donate_here_donation_button2_price</string>
+    <string name="donation_button3_price">zoomifi_donate_here_donation_button3_price</string>
+    <string name="donation_button4_price">zoomifi_donate_here_donation_button4_price</string>
+    <string name="donation_button5_price">zoomifi_donate_here_donation_button5_price</string>
+
+    <string name="doNotShowDialogAgain">zoomifi_donate_here_doNotShowDialogAgain</string>
+
+    <string name="ZeroDollars">0.00</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_00">00</string>
+    <string name="_0">0</string>
+    <string name="_DELETE">Delete</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Add">Add</string>
+    <string name="Save">Save</string>
+
+    <string name="payment_failed">Error: Payment failed.</string>
+    <string name="payment_successful">Payment successful!</string>
+    <string name="no_account">There is no Clover account.</string>
+    <string name="input_receipt_text">Add text to end of the receipt.</string>
+    <string name="test_print">Test Print</string>
+
+    <string name="enterDonationAmount">Please Select Donation Amount:</string>
+    <string name="enterDepartmentName">Please Select a Department</string>
+    <string name="enterCredentials">Please Fill in:</string>
+    <string name="OtherAmount">Other Amount</string>
+
+    <string name="CustomText">Custom Text</string>
+    <string name="title_activity_add_departments">AddDepartments</string>
+    <string name="DonateHereSettings">Donate Here: Settings</string>
+    <string name="DonateHereListOfDonations">Donate Here: List of Donations</string>
+
+    <string name="DonationPageTitle">Click on the Boxes to Add or Edit a Department</string>
+    <string name="DonationDepartmentDisclaimer">Disclaimer: If all of the Department Names are blank then the \'Department Screen\' will not be shown to customers during the donation process.</string>
+    <string name="SettingsDisplayDonationsScreen">Display \'Department Screen\' to Customers.</string>
+
+    <string name="CustomText1">Custom Text 1</string>
+    <string name="CustomText2">Custom Text 2</string>
+    <string name="CustomText3">Custom Text 3</string>
+    <string name="CustomText4">Custom Text 4</string>
+
+    <string name="Custom1">Custom 1</string>
+    <string name="Custom2">Custom 2</string>
+    <string name="Custom3">Custom 3</string>
+    <string name="Custom4">Custom 4</string>
+
+    <string name="department">Department</string>
+
+    <string name="department_name_1">zoomifi_donate_here_department_name_1</string>
+    <string name="department_name_2">zoomifi_donate_here_department_name_2</string>
+    <string name="department_name_3">zoomifi_donate_here_department_name_3</string>
+    <string name="department_name_4">zoomifi_donate_here_department_name_4</string>
+    <string name="department_name_5">zoomifi_donate_here_department_name_5</string>
+    <string name="department_name_6">zoomifi_donate_here_department_name_6</string>
+
+    <string name="AddDepartment">Click Here to\nAdd a Department</string>
+    <string name="DepartmentName">Department Name</string>
+
+    <string name="_FIELDS_FILE">FIELDS_FILE</string>
+
+    <string name="_CHECK_DISPLAY_FIRST_NAME">CHECK_DISPLAY_FIRST_NAME</string>
+    <string name="_CHECK_DISPLAY_LAST_NAME">CHECK_DISPLAY_LAST_NAME</string>
+    <string name="_CHECK_DISPLAY_PHONE_NUMBER">CHECK_DISPLAY_PHONE_NUMBER</string>
+    <string name="_CHECK_DISPLAY_EMAIL">CHECK_DISPLAY_EMAIL</string>
+    <string name="_CHECK_DISPLAY_CUSTOM_FIELD_1">CHECK_DISPLAY_CUSTOM_FIELD_1</string>
+    <string name="_CHECK_DISPLAY_CUSTOM_FIELD_2">CHECK_DISPLAY_CUSTOM_FIELD_2</string>
+    <string name="_CHECK_DISPLAY_CUSTOM_FIELD_3">CHECK_DISPLAY_CUSTOM_FIELD_3</string>
+    <string name="_CHECK_DISPLAY_CUSTOM_FIELD_4">CHECK_DISPLAY_CUSTOM_FIELD_4</string>
+
+    <string name="_CHECK_REQUIRED_FIRST_NAME">CHECK_REQUIRED_FIRST_NAME</string>
+    <string name="_CHECK_REQUIRED_LAST_NAME">CHECK_REQUIRED_LAST_NAME</string>
+    <string name="_CHECK_REQUIRED_PHONE_NUMBER">CHECK_REQUIRED_PHONE_NUMBER</string>
+    <string name="_CHECK_REQUIRED_EMAIL">CHECK_REQUIRED_EMAIL</string>
+    <string name="_CHECK_REQUIRED_CUSTOM_FIELD_1">CHECK_REQUIRED_CUSTOM_FIELD_1</string>
+    <string name="_CHECK_REQUIRED_CUSTOM_FIELD_2">CHECK_REQUIRED_CUSTOM_FIELD_2</string>
+    <string name="_CHECK_REQUIRED_CUSTOM_FIELD_3">CHECK_REQUIRED_CUSTOM_FIELD_3</string>
+    <string name="_CHECK_REQUIRED_CUSTOM_FIELD_4">CHECK_REQUIRED_CUSTOM_FIELD_4</string>
+
+    <string name="_CUSTOM_FIELD_1_NAME">CUSTOM_FIELD_1_NAME</string>
+    <string name="_CUSTOM_FIELD_2_NAME">CUSTOM_FIELD_2_NAME</string>
+    <string name="_CUSTOM_FIELD_3_NAME">CUSTOM_FIELD_3_NAME</string>
+    <string name="_CUSTOM_FIELD_4_NAME">CUSTOM_FIELD_4_NAME</string>
+
+    <string name="DEPARTMENT_NAME_EXISTS_1">DEPARTMENT_NAME_EXISTS_1</string>
+    <string name="DEPARTMENT_NAME_EXISTS_2">DEPARTMENT_NAME_EXISTS_2</string>
+    <string name="DEPARTMENT_NAME_EXISTS_3">DEPARTMENT_NAME_EXISTS_3</string>
+    <string name="DEPARTMENT_NAME_EXISTS_4">DEPARTMENT_NAME_EXISTS_4</string>
+    <string name="DEPARTMENT_NAME_EXISTS_5">DEPARTMENT_NAME_EXISTS_5</string>
+    <string name="DEPARTMENT_NAME_EXISTS_6">DEPARTMENT_NAME_EXISTS_6</string>
+
+    <string name="DISPLAY_DEPARTMENT_SCREEN">DISPLAY_DEPARTMENT_SCREEN</string>
+
+    <!-- Time Your Orders -->
+
+
+    <string name="searchBarHint">Search for Order ID, Number, Customer, or Note</string>
+    <string name="ALL_ORDERS">ALL ORDERS</string>
+    <string name="OPEN">OPEN</string>
+    <string name="PAID">PAID</string>
+    <string name="PARTIALLY_PAID">PARTIALLY PAID</string>
+    <string name="REFUNDED">REFUNDED</string>
+    <string name="PARTIALLY_REFUNDED">PARTIALLY REFUNDED</string>
+    <string name="MANUALLY_REFUNDED">MANUALLY REFUNDED</string>
+
+    <string name="PARTIALLY_PAID_CODE">PARTIALLY_PAID</string>
+    <string name="PARTIALLY_REFUNDED_CODE">PARTIALLY_REFUNDED</string>
+    <string name="MANUALLY_REFUNDED_CODE">MANUALLY_REFUNDED</string>
+
+    <string name="DATE_TIME">Date/Time</string>
+    <string name="AMOUNT_TENDER">Amount/Tender</string>
+    <string name="STATUS">Status</string>
+    <string name="TIP_AMOUNT">Tip</string>
+    <string name="Orders">Orders</string>
+
+    <string name="SyncDonations">Sync Donations</string>
+    <string name="PressSync">Press sync button to retrieve all previous donations.</string>
+
+    <string name="TenderFilter">Tender Filter</string>
+    <string name="StatusFilter">Status Filter</string>
+
+</resources>

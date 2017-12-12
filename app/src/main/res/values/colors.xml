@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="Black">#000000</color>
+    <color name="White">#FFFFFF</color>
+    <color name="CloverGreen">#3b7b42</color>
+    <color name="CloverGreenTinted">#a3bfa7</color>
+    <color name="Transparent">#00000000</color>
+    <color name="Gray">#9D9D9D</color>
+    <color name="Gray2">#e1e1e1</color>
+    <color name="LightBlue">#5ABEFF</color>
+    <color name="DarkBlue">#0033BE</color>
+    <color name="Gray1">#BEBEBE</color>
+
+    <color name="Red">#E12323</color>
+    <color name="SecondaryRed">#F04E4E</color>
+    <color name="RedTinted">#F1A3A3</color>
+    <color name="AquaGreen">#00694C</color>
+    <color name="AquaGreenLight">#4BC2A1</color>
+    <color name="AquaGreenLightTinted">#93C0B3</color>
+    <color name="AquaGreenLightTinted2">#4493C0B3</color>
+
+    <color name="CloverAppBackgrounds">#f0f0f0</color>
+    <color name="OffGreen">#92d050</color>
+    <color name="OffGreenPressed">#CFF2A8</color>
+    <color name="OffGray">#d9d9d9</color>
+    <color name="OffGrayPressed">#F7F7F7</color>
+    <color name="RefundedRed">#cc0000</color>
+
+    <color name="RedLighterShade">#DA5353</color>
+
+    <color name="LighterRed">#CE6060</color>
+    <color name="LighterGreen">#038903</color>
+    <color name="LighterRedPressed">#D0A5A5</color>
+
+    <color name="PartiallyPaidYellow">#888800</color>
+    <color name="PartiallyRefundedPurple">#880088</color>
+
+    <color name="LightBlue2">#84ADEE</color>
+    <color name="LightBlueClicked">#A9C1E7</color>
+
+    <color name="AndroidBlue">#0000FF</color>
+</resources>
+
+<!-- F24C4C -->

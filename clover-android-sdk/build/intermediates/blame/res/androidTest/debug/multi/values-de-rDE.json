@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/res/merged/androidTest/debug/values-de-rDE/values-de-rDE.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 72,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/values-de-rDE/values-de-rDE.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 72,
+                        "endOffset": 123
+                    }
+                }
+            }
+        ]
+    }
+]

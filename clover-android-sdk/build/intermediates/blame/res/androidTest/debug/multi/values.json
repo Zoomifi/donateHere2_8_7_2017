@@ -1,0 +1,266 @@
+[
+    {
+        "outputFile": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 94,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 94,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 85,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 85,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 131,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 131,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 59,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 59,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 104,
+                    "endOffset": 592
+                },
+                "from": {
+                    "file": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 104,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 597,
+                    "endColumn": 74,
+                    "endOffset": 667
+                },
+                "from": {
+                    "file": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 597,
+                        "endColumn": 74,
+                        "endOffset": 667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 672,
+                    "endLine": 13,
+                    "endColumn": 10,
+                    "endOffset": 917
+                },
+                "from": {
+                    "file": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 672,
+                        "endLine": 13,
+                        "endColumn": 10,
+                        "endOffset": 917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 922,
+                    "endLine": 22,
+                    "endColumn": 10,
+                    "endOffset": 1348
+                },
+                "from": {
+                    "file": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 922,
+                        "endLine": 22,
+                        "endColumn": 10,
+                        "endOffset": 1348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1353,
+                    "endLine": 33,
+                    "endColumn": 10,
+                    "endOffset": 1892
+                },
+                "from": {
+                    "file": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1353,
+                        "endLine": 33,
+                        "endColumn": 10,
+                        "endOffset": 1892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1897,
+                    "endLine": 43,
+                    "endColumn": 10,
+                    "endOffset": 2385
+                },
+                "from": {
+                    "file": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1897,
+                        "endLine": 43,
+                        "endColumn": 10,
+                        "endOffset": 2385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2390,
+                    "endLine": 48,
+                    "endColumn": 10,
+                    "endOffset": 2623
+                },
+                "from": {
+                    "file": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2390,
+                        "endLine": 48,
+                        "endColumn": 10,
+                        "endOffset": 2623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2628,
+                    "endLine": 53,
+                    "endColumn": 10,
+                    "endOffset": 2861
+                },
+                "from": {
+                    "file": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2628,
+                        "endLine": 53,
+                        "endColumn": 10,
+                        "endOffset": 2861
+                    }
+                }
+            }
+        ]
+    }
+]

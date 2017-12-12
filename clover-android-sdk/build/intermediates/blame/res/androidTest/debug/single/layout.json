@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/res/merged/androidTest/debug/layout/return_to_merchant_dialog_fragment.xml",
+        "source": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/layout/return_to_merchant_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/res/merged/androidTest/debug/layout/rotate_to_customer_dialog_fragment.xml",
+        "source": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/layout/rotate_to_customer_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/res/merged/androidTest/debug/layout/rotate_to_merchant_dialog_fragment.xml",
+        "source": "/Users/CristMac/Google Drive/donate_here_josh/clover-android-sdk/build/intermediates/bundles/debug/res/layout/rotate_to_merchant_dialog_fragment.xml"
+    }
+]

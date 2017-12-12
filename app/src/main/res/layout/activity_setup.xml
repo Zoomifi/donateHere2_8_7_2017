@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="zoomifi.donatehere.TimeYourOrder._SetupActivity"
+    android:background="@color/CloverAppBackgrounds">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:text="Setup the default timers based on day and hour."
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="@color/Black"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="25dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="50dp">
+
+        <TextView
+            android:id="@+id/setup_day"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Day"
+            android:textSize="15dp"
+            android:textColor="@color/Black"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/setup_timer_1_from"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="12:00:00 AM"
+            android:textSize="15dp"
+            android:textColor="@color/Black"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/setup_timer_1_to"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="TIMER 1"
+            android:textColor="@color/Black"
+            android:textSize="15dp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/setup_timer_1_minutes"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="00"
+            android:textColor="@color/Black"
+            android:visibility="invisible"/>
+
+        <android.support.v4.widget.Space
+            android:layout_width="60dp"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:id="@+id/setup_timer_2_from"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="12:00:00 AM"
+            android:textColor="@color/Black"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/setup_timer_2_to"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="TIMER 2"
+            android:textColor="@color/Black"
+            android:textSize="15dp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/setup_timer_2_minutes"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="00"
+            android:textColor="@color/Black"
+            android:visibility="invisible"/>
+
+        <android.support.v4.widget.Space
+            android:layout_width="60dp"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="All Other Times"
+            android:textColor="@color/Black"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="50dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="15dp"
+            android:textColor="@color/Black"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="From"
+            android:textSize="15dp"
+            android:textColor="@color/Black"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="To"
+            android:textSize="15dp"
+            android:textColor="@color/Black"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="Minutes"
+            android:textSize="15dp"
+            android:textColor="@color/Black"/>
+
+        <android.support.v4.widget.Space
+            android:layout_width="60dp"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="From"
+            android:textSize="15dp"
+            android:textColor="@color/Black"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="To"
+            android:textSize="15dp"
+            android:textColor="@color/Black"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="Minutes"
+            android:textSize="15dp"
+            android:textColor="@color/Black"/>
+
+        <android.support.v4.widget.Space
+            android:layout_width="60dp"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="Minutes"
+            android:textSize="15dp"
+            android:textColor="@color/Black"/>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/time_table_listview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="50dp"
+        android:divider="@color/CloverAppBackgrounds"
+        android:dividerHeight="0.5dp"
+        android:layout_gravity="center_vertical"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="25dp">
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="OR APPLY ONE TIMER FOR ALL DAYS AND TIMES."
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="@color/Black" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_marginLeft="15dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MINUTES"
+                android:textSize="12dp"
+                android:textStyle="bold"
+                android:textColor="@color/Black" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="00"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColor="@color/Black"
+                android:background="@color/White"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/Black"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

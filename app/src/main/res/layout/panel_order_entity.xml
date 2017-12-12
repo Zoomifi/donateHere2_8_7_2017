@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:baselineAligned="false">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp">
+
+            <TextView
+                android:id="@+id/date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/blank"
+                android:textSize="16sp"
+                android:textColor="@color/Black"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/EmployeeName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/blank"
+                android:textSize="13sp"
+                android:textColor="@color/Black"
+                android:layout_marginTop="2dp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp">
+
+            <TextView
+                android:id="@+id/totalAmount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/blank"
+                android:gravity="center"
+                android:textSize="16sp"
+                android:textColor="@color/Black"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/PaymentType"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/blank"
+                android:gravity="center"
+                android:textSize="13sp"
+                android:textColor="@color/Black"
+                android:layout_marginTop="2dp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp">
+
+            <TextView
+                android:id="@+id/tipAmount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/blank"
+                android:textSize="16sp"
+                android:textColor="@color/Black"
+                android:textStyle="bold"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp">
+
+            <TextView
+                android:id="@+id/paymentStatus"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/blank"
+                android:textSize="16sp"
+                android:textColor="@color/Black"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/orderTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="13sp"
+                android:textColor="@color/Black"
+                android:layout_marginTop="2dp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.25"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp">
+
+            <TextView
+                android:id="@+id/orderID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/blank"
+                android:textSize="16sp"
+                android:textColor="@color/Black"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/CustomerName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/blank"
+                android:textSize="13sp"
+                android:textColor="@color/Black"
+                android:layout_marginTop="2dp"/>
+
+        </LinearLayout>
+
+        <!--<FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp">
+
+            <TextView
+                android:id="@+id/feeAmount"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:text="@string/blank"
+                android:textSize="16sp"
+                android:textColor="@color/Black"
+                android:textStyle="bold"/>
+            <ImageButton
+                android:id="@+id/add_fee"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:textStyle="bold"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/ic_action_add"
+                />
+        </FrameLayout>-->
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.25"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp">
+
+            <Button
+                android:id="@+id/additionalEmployee"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="0 MINUTES"
+                android:textSize="16sp"
+                android:textColor="@color/Black"
+                android:background="@drawable/red_button"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:visibility="visible"/>
+
+            <LinearLayout
+                android:id="@+id/assignedDriverTVLL"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:background="@drawable/green_button">
+
+                <TextView
+                    android:id="@+id/assignedDriverTextView"
+                    android:layout_width="0dp"
+                    android:textStyle="bold"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/blank"
+                    android:minLines="1"
+                    android:maxLines="2"
+                    android:ellipsize="end"
+                    android:textColor="@color/Black"
+                    android:textSize="13sp"/>
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/noteTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:textColor="@color/RefundedRed"
+        android:textStyle="italic"
+        android:visibility="gone"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="10dp"/>
+
+</LinearLayout>
